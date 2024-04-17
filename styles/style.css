@@ -1,0 +1,105 @@
+body{
+    background-image: url("../images/retextured_1.png");
+}
+
+.header{
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    color: antiquewhite;
+    font-size: 50px;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.navbar-brand{
+    color: antiquewhite;
+    font-family: "Lobster", sans-serif;
+}
+
+.nav-link{
+    color: white;
+}
+
+p{
+    color: azure;
+}
+
+.feature{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.inspire{
+    padding: 40px;
+}
+
+.inspire-text{
+    font-style: italic;
+    font-size: 10px;
+}
+
+.feature-head{
+    text-align: center;
+    color: beige;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.footer{
+    text-align: center;
+    color: beige;
+    padding-bottom: 50px;
+}
+/* .footer-item{
+    display: inline-block;
+} */
+.footer-list{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+li{
+    float: left;
+}
+
+li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: beige;
+}
+
+li a:hover{
+    color: aquamarine;
+}
+
+.github{
+    margin-left: 20px;
+}
+
+.linkedin{
+    margin-left: 400px;
+}
+
+.maze{
+    margin-top: 30px;
+    text-align: center;
+}
+.maze-github{
+    text-decoration: none;
+    color: beige;
+}
+
+.maze-github:hover{
+    color: aquamarine;
+}
